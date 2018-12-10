@@ -8,7 +8,7 @@ if __name__ == "__main__":
     namespace = uuid.NAMESPACE_URL
     print(namespace)
 
-    print(uuid.uuid1())
-    print(uuid.uuid3(namespace, name))
-    print(uuid.uuid4())
-    print(uuid.uuid5(namespace, name))
+    print("1:", uuid.uuid1())
+    print("3:", uuid.uuid3(namespace, name))
+    print("变化4:", uuid.uuid4())
+    print("5:", uuid.uuid5(namespace, name))
