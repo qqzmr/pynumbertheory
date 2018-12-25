@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c468a5d-6074-4b02-9502-cce4c2163e4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a02/a024_turtle绘制四个圆.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyLanguageProgramming/a02/a003_将英尺数转换为米数.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyLanguageProgramming/a02/a003_将英尺数转换为米数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a03/a001五边形面积.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a04/a001一元二次方程.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,24 +29,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5501" />
+          <entry key="py" value="5890" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5501" />
+          <entry key="Python" value="5890" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="94" />
+          <entry key="py" value="101" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="94" />
+          <entry key="Python" value="101" />
         </counts>
       </usages-collector>
     </session>
@@ -54,28 +54,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a003_将英尺数转换为米数.py">
+        <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a04/a001一元二次方程.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a024_turtle绘制四个圆.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a016_turtle绘制四个圆.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="49" column="4" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="17" />
+            <state relative-caret-position="171">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -136,8 +118,10 @@
         <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a020_turtle显示立方体.py" />
         <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a021_turtle显示时钟.py" />
         <option value="$PROJECT_DIR$/pyLanguageProgramming/a02/a002_计算圆柱体的体积.py" />
-        <option value="$PROJECT_DIR$/pyLanguageProgramming/a02/a024_turtle绘制四个圆.py" />
         <option value="$PROJECT_DIR$/pyLanguageProgramming/a02/a003_将英尺数转换为米数.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a02/a024_turtle绘制四个圆.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a03/a001五边形面积.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a04/a001一元二次方程.py" />
       </list>
     </option>
   </component>
@@ -174,13 +158,7 @@
               <item name="pynumbertheory" type="b2602c69:ProjectViewProjectNode" />
               <item name="pynumbertheory" type="462c0819:PsiDirectoryNode" />
               <item name="pyLanguageProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="a01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pynumbertheory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pynumbertheory" type="462c0819:PsiDirectoryNode" />
-              <item name="pyLanguageProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="a02" type="462c0819:PsiDirectoryNode" />
+              <item name="a04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -305,8 +283,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1624" height="902" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20549656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20549656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -317,7 +296,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32945737" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.25129533" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.25129533" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -346,24 +325,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ispower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="51" column="10" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="31" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sqrtrange.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="44" selection-start-line="44" selection-end-line="45" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -427,13 +392,6 @@
     <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a009.py" />
     <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a008.py" />
     <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a011.py" />
-    <entry file="file://$PROJECT_DIR$/quickpower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logrange.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -478,24 +436,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a002_计算圆柱体的体积.py">
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a003_将英尺数转换为米数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a001_将摄氏温度转化为华氏温度.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a024_turtle绘制四个圆.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -506,10 +450,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a003_将英尺数转换为米数.py">
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a024_turtle绘制四个圆.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        <state relative-caret-position="304">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ispower.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" column="10" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickpower.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sqrtrange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" selection-start-line="44" selection-end-line="45" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a001_将摄氏温度转化为华氏温度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a03/a001五边形面积.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a002_计算圆柱体的体积.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a04/a001一元二次方程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
