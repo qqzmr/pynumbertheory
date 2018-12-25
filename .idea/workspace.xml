@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c468a5d-6074-4b02-9502-cce4c2163e4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pybase/005_tcp客户端.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pybase/005_tcp服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a01/a007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a01/a008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a01/a009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a01/a010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a01/a011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a01/a012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a01/a013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a01/a014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a01/a015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a01/a016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a01/a017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a01/a018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a01/a019_turtle绘制多边形.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a01/a020_turtle显示立方体.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,36 +28,37 @@
     <session id="-1202635483">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.84" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2593" />
+          <entry key="py" value="5068" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2593" />
+          <entry key="Python" value="5068" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="51" />
+          <entry key="py" value="87" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="51" />
+          <entry key="Python" value="87" />
         </counts>
       </usages-collector>
     </session>
@@ -52,22 +66,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pybase/005_tcp客户端.py">
+        <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a020_turtle显示立方体.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="225">
+              <caret line="60" column="21" lean-forward="true" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pybase/005_tcp服务端.py">
+        <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a021_turtle显示时钟.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-              <folding>
-                <element signature="e#15#28#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="60" column="18" lean-forward="true" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -105,6 +116,28 @@
         <option value="$PROJECT_DIR$/pybase/004_guid.py" />
         <option value="$PROJECT_DIR$/pybase/005_tcp客户端.py" />
         <option value="$PROJECT_DIR$/pybase/005_tcp服务端.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a001.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a002.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a003.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a004.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a005.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a006.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a007.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a008.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a009.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a010.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a011.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a012.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a013.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a014.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a015.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a016.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a017.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a018.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a019_turtle绘制多边形.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a021_turtle显示立方体.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a020_turtle显示立方体.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a021_turtle显示时钟.py" />
       </list>
     </option>
   </component>
@@ -119,7 +152,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,10 +164,22 @@
               <item name="pynumbertheory" type="462c0819:PsiDirectoryNode" />
               <item name="pybase" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pynumbertheory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pynumbertheory" type="462c0819:PsiDirectoryNode" />
+              <item name="pyLanguageProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pynumbertheory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pynumbertheory" type="462c0819:PsiDirectoryNode" />
+              <item name="pyLanguageProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="a01" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,10 +297,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1849" height="902" extended-state="6" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1034" height="821" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20974809" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31355095" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -267,7 +310,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32945737" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23704663" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.25180897" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -281,32 +324,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/logn.py" />
-    <entry file="file://$PROJECT_DIR$/gcd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ecc.py" />
     <entry file="file://$PROJECT_DIR$/sqrtmodel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1155">
           <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickpower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logrange.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="30" selection-start-line="30" selection-end-line="31" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -338,13 +360,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ellipticcurve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pybase/001_类型转换.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -359,20 +374,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pybase/003_日期时间.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="20" />
-          <folding>
-            <element signature="e#22#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pybase/004_guid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ellipticcurve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pybase/005_tcp服务端.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -383,13 +402,195 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pybase/005_tcp服务端.py">
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a001.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a002.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a003.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gcd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" selection-start-line="60" selection-end-line="60" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a004.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a005.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a006.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a007.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a010.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a009.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a008.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a011.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickpower.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logrange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="31" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pybase/003_日期时间.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="20" />
           <folding>
-            <element signature="e#15#28#0" expanded="true" />
+            <element signature="e#22#45#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/turtle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2115">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a012.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a014.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="43" column="26" lean-forward="true" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a015.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="53" column="22" lean-forward="true" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a017.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a013.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a018.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a019_turtle绘制多边形.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a016.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="35" column="24" lean-forward="true" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a021_turtle显示立方体.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="31" column="21" lean-forward="true" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a020_turtle显示立方体.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="60" column="21" lean-forward="true" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a021_turtle显示时钟.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="60" column="18" lean-forward="true" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
         </state>
       </provider>
     </entry>
