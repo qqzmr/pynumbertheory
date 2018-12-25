@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c468a5d-6074-4b02-9502-cce4c2163e4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a02/a001_将摄氏温度转化为华氏温度.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a02/a002_计算圆柱体的体积.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a02/a024_turtle绘制四个圆.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyLanguageProgramming/a02/a003_将英尺数转换为米数.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyLanguageProgramming/a02/a003_将英尺数转换为米数.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,53 +29,53 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5128" />
+          <entry key="py" value="5501" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5128" />
+          <entry key="Python" value="5501" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="90" />
+          <entry key="py" value="94" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="90" />
+          <entry key="Python" value="94" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a020_turtle显示立方体.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a002_计算圆柱体的体积.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a001_将摄氏温度转化为华氏温度.py">
+        <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a003_将英尺数转换为米数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="74" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="74" />
+            <state relative-caret-position="380">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a024_turtle绘制四个圆.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a016_turtle绘制四个圆.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="49" column="4" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -136,6 +136,8 @@
         <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a020_turtle显示立方体.py" />
         <option value="$PROJECT_DIR$/pyLanguageProgramming/a01/a021_turtle显示时钟.py" />
         <option value="$PROJECT_DIR$/pyLanguageProgramming/a02/a002_计算圆柱体的体积.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a02/a024_turtle绘制四个圆.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a02/a003_将英尺数转换为米数.py" />
       </list>
     </option>
   </component>
@@ -167,6 +169,12 @@
               <item name="pynumbertheory" type="b2602c69:ProjectViewProjectNode" />
               <item name="pynumbertheory" type="462c0819:PsiDirectoryNode" />
               <item name="pyLanguageProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pynumbertheory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pynumbertheory" type="462c0819:PsiDirectoryNode" />
+              <item name="pyLanguageProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="a01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pynumbertheory" type="b2602c69:ProjectViewProjectNode" />
@@ -297,9 +305,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1624" height="902" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31292942" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20549656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -310,7 +317,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32945737" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.25129533" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.25129533" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -473,15 +480,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a002_计算圆柱体的体积.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="190">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a001_将摄氏温度转化为华氏温度.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="74" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="74" />
+        <state relative-caret-position="57">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a024_turtle绘制四个圆.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a016_turtle绘制四个圆.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="49" column="4" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a02/a003_将英尺数转换为米数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
     </entry>
