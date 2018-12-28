@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c468a5d-6074-4b02-9502-cce4c2163e4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a05/a001_统计正数和负数的个数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyLanguageProgramming/a08/a011反向字符串.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +15,7 @@
     <session id="-1202635483">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.35" value="1" />
@@ -25,25 +25,26 @@
           <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.65" value="1" />
           <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.84" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="6588" />
+          <entry key="py" value="7284" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="6588" />
+          <entry key="Python" value="7284" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
           <entry key="png" value="3" />
-          <entry key="py" value="126" />
+          <entry key="py" value="132" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
@@ -52,7 +53,7 @@
           <entry key="HTML" value="1" />
           <entry key="Image" value="3" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="126" />
+          <entry key="Python" value="132" />
         </counts>
       </usages-collector>
     </session>
@@ -60,10 +61,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a05/a001_统计正数和负数的个数.py">
+        <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a08/a011反向字符串.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="76">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding>
+                <marker date="1545969247339" expanded="true" signature="38:55" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,11 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sqrtmodel.py" />
-        <option value="$PROJECT_DIR$/logn.py" />
-        <option value="$PROJECT_DIR$/logrange.py" />
-        <option value="$PROJECT_DIR$/sqrtrange.py" />
-        <option value="$PROJECT_DIR$/ecc.py" />
         <option value="$PROJECT_DIR$/ellipticcurve.py" />
         <option value="$PROJECT_DIR$/ispower.py" />
         <option value="$PROJECT_DIR$/pybase/001_类型转换.py" />
@@ -134,6 +133,11 @@
         <option value="$PROJECT_DIR$/pyyincheng/自动化运维/day1/4.mail/2发邮件.py" />
         <option value="$PROJECT_DIR$/pyyincheng/自动化运维/day5/1.control/2.telnet登陆.py" />
         <option value="$PROJECT_DIR$/pyLanguageProgramming/a05/a001_统计正数和负数的个数.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a06/a001五角数.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a07/a001矩形类.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a15/a001使用递归对一个整数的数字求和.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a08/a003检测密码.py" />
+        <option value="$PROJECT_DIR$/pyLanguageProgramming/a08/a011反向字符串.py" />
       </list>
     </option>
   </component>
@@ -166,25 +170,7 @@
               <item name="pynumbertheory" type="b2602c69:ProjectViewProjectNode" />
               <item name="pynumbertheory" type="462c0819:PsiDirectoryNode" />
               <item name="pyLanguageProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="a02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pynumbertheory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pynumbertheory" type="462c0819:PsiDirectoryNode" />
-              <item name="pyLanguageProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="a03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pynumbertheory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pynumbertheory" type="462c0819:PsiDirectoryNode" />
-              <item name="pyLanguageProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="a04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pynumbertheory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pynumbertheory" type="462c0819:PsiDirectoryNode" />
-              <item name="pyLanguageProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="a05" type="462c0819:PsiDirectoryNode" />
+              <item name="a08" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -322,7 +308,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32945737" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.37962964" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4861111" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -345,30 +331,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a009.py" />
-    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a008.py" />
-    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a011.py" />
-    <entry file="file://$PROJECT_DIR$/logrange.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="31" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pybase/003_日期时间.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.6/turtle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2115">
-          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a012.py" />
     <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a014.py" />
     <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a01/a015.py" />
@@ -593,9 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -610,16 +569,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-          <folding>
-            <element signature="e#16#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a05/a001_统计正数和负数的个数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
+        <state relative-caret-position="293">
           <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a06/a001五角数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a07/a001矩形类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a15/a001使用递归对一个整数的数字求和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1545902964785" expanded="true" signature="40:114" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a08/a003检测密码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a08/a003检测密码未完成.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyLanguageProgramming/a08/a011反向字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <marker date="1545969247339" expanded="true" signature="38:55" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
