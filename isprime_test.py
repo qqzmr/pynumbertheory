@@ -1,10 +1,34 @@
 # -*-coding:utf-8-*-
 
-import quickpower
 import math
 import time
 from functools import wraps
-#https://www.luogu.com.cn/problem/list?page=1 大量算法题
+
+
+def quick_power(a, b, p):
+    """
+    求快速幂。ret = a^b%p。
+
+    Args:
+        a: 底数。大于等于0并且是整数。
+        b: 指数。大于等于0并且是整数。
+        p: 模数。大于0并且是整数。
+
+    Returns:
+        返回结果。
+
+    Raises:
+        IOError: 无错误。
+    """
+    a = a % p
+    ans = 1
+    while b != 0:
+        if b & 1:
+            ans = (ans * a) % p
+        b >>= 1
+        a = (a * a) % p
+    return ans
+
 
 def timefn(fn):
     """计算性能的修饰器"""
@@ -69,7 +93,7 @@ def is_prime_fermat(num):
     if num % 2 == 0:
         return False
     a = 2  # a是[2,num-1]之间的随机数
-    if quickpower.quick_power(a, num - 1, num) == 1:
+    if quick_power(a, num - 1, num) == 1:
         return True
     else:
         return False
@@ -100,7 +124,7 @@ def is_prime_miller_rabin(num):
     while not (t & 1):
         t >>= 1
         s += 1
-    k = quickpower.quick_power(a, t, num)
+    k = quick_power(a, t, num)
     if k == 1:
         return True
     j = 0
@@ -149,26 +173,19 @@ def is_prime_comprehensive(num):
 
 
 if __name__ == "__main__":
-    # print(is_prime_trial_division(12319))
-    # print(is_prime_trial_division(561))
-    num = 1111111111111111111
-    # num = 561 #合数
-    # num = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFC2F
-    # num = 0xFFFFFFFFFFFF
-    # FFFFFFFFFFFFFFFFFFFEBAAEDCE6AF48A03BBFD25E8CD0364141
-    num = 2 ** 10000 + 111
-    print(is_prime_fermat(num))
-    print(is_prime_miller_rabin(num))
+    print(is_prime_trial_division(12319), "试除法")
     print("----------------------")
-    print(is_prime_comprehensive(num))
-# 如果n <2,047，则测试a = 2 就足够了；
-# 如果n <1,373,653，则测试a = 2和3 就足够了；
-# 如果n <9,080,191，则测试a = 31和73 就足够了；
-# 如果n <25,326,001，则足以测试a = 2、3和5；
-# 如果n <3,215,031,751，测试a = 2、3、5 和7 就足够了；
-# 如果n <4,759,123,141，测试a = 2、7和61 就足够了；
-# 如果n <3,474,749,660,383，测试a = 2、3、5、7、11 和13 就足够了；
-# 如果n <341,550,071,728,321，则足以测试a = 2、3、5、7、11、13 和17。
-# 如果n <3,825,123,056,546,413,051，则足以测试a = 2、3、5、7、11、13、17、19 和23
-
-# https://blog.csdn.net/qq_42146775/article/details/102562329
+    print(is_prime_trial_division(561), "试除法")
+    print("----------------------")
+    num = 1111111111111111111  # 质数
+    num = 561  # 合数
+    num = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFC2F  # 质数
+    num = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEBAAEDCE6AF48A03BBFD25E8CD0364141  # 质数
+    num = 2 ** 10000 + 111  # 合数
+    print(is_prime_fermat(num), "费尔马素性测试法")
+    print("----------------------")
+    print(is_prime_miller_rabin(num), "米勒拉宾素性检验")
+    print("----------------------")
+    print(is_prime_comprehensive(num), "综合法")
+    print("----------------------")
+    print("AKS算法，暂时没代码")
